@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Coursera_FP1.iml" filepath="$PROJECT_DIR$/Coursera_FP1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/recfun/src/main/main.iml" filepath="$PROJECT_DIR$/Week1/recfun/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/recfun/recfun.iml" filepath="$PROJECT_DIR$/Week1/recfun/recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1/recfun/src/test/test.iml" filepath="$PROJECT_DIR$/Week1/recfun/src/test/test.iml" />
     </modules>
   </component>
 </project>
